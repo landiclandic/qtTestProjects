@@ -5,7 +5,6 @@ import QtQuick.Timeline 1.0
 import QtQuick.Studio.Components 1.0
 import QtQuick.Shapes 1.0
 import QtQuick.Studio.Effects 1.0
-import Qt.SafeRenderer 1.1
 import QtQuick.Controls.Material 2.0
 import QtQuick.Layouts 1.3
 
@@ -285,7 +284,15 @@ Rectangle {
 
 
 
-/*##^## Designer {
-    D{i:3}D{i:22;anchors_x:120;anchors_y:228}
+
+
+/*##^##
+Designer {
+    D{i:0;formeditorZoom:1.100000023841858;uuid:"c697ad9448308aa18edb2ddf1e70bdc3"}D{i:1;uuid:"f747012cb70906f4db2444e189e3d187"}
+D{i:2;uuid:"db6b20357c00c7171fa8875a5648795b"}D{i:15;uuid:"d227ecab51d3eb59409b9226241a9838"}
+D{i:16;uuid:"97146e5540b6a2be6371d45613d26f8c"}D{i:18;uuid:"238be8b9c8ae9d5b851ea798049dcd5c"}
+D{i:22;uuid:"205bceb0331b4fcf8a00c3586a346cc2"}D{i:23;uuid:"7aa34dcfdec8b5c6201b168030677518"}
+D{i:25;uuid:"99dfe699e0f87b63599eb7c3978b5ae2"}D{i:26;uuid:"3bbf8549fb3bced4d424f2341a550c48"}
+D{i:24;uuid:"51d667c966c7d1a0d5cc2b2995e55b31"}D{i:27;uuid:"bbe7c0607d9bd75abfad2566046e35cd"}
 }
- ##^##*/
+##^##*/
